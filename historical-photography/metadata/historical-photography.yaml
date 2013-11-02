@@ -1,0 +1,399 @@
+photos:
+
+  # Memorandumului
+  -
+    file: 0.jpg
+    year: 1936
+    caption: Asfaltarea Pieții Libertății.
+    way_id: 13347875
+  - 
+    file: 1.jpg
+    year: 1936
+    description: Asfaltarea Străzii 30 Decembrie.
+    way_id: 13347875
+  -
+    file: 2.jpg
+    year: 1859
+    description: Latura nordică a Străzii 30 Decembrie, în spate se văd casele cu picioare din Piața r
+    way_id: 13347875
+  -
+    file: 3.jpg
+    year:
+    description: Strada Memorandumului, către primărie
+    way_id: 13347875
+
+  # Calea Moților
+  - 
+    file: 4.jpg
+    year: 1904
+    description: Consiliul popular județean
+    way_id: 13342765
+
+  # 21 Decembrie
+  - 
+    file: 5.jpg
+    year: 1907
+    description: Bulevardul Lenin - parcaj de birje pe mijloc
+    way_id: 13345555
+  - 
+    file: 6.jpg
+    year: 1915
+    description: Bulevardul Lenin - Fabrica de tutun
+    way_id: 13345555
+  -
+    file: 7.jpg
+    year: 1859
+    description: Bulevardul Lenin cu vedere spre Piața Libertății, unde se văd casele cu picioare
+    way_id: 13345555
+  -
+    file: 8.jpg
+    year: 1933
+    description: Bicikli
+    way_id: 13345555
+  -
+    file: 9.jpg
+    year: 
+    description: bjc_cv_cs_foto_171
+    way_id: 13345555
+  -
+    file: 10.jpg
+    year: 
+    description: bjc_cv_cs_foto_243
+    way_id: 13345555
+
+  # Piața Unirii
+  -
+    file: 11.jpg
+    year:
+    description: Piața Libertății, latura de nord
+    way_id: 24283666
+  -
+    file: 12.jpg
+    year: 
+    description:
+    way_id: 24283666
+  -
+    file: 13.jpg
+    year: 1861
+    description: Klausenburg
+    way_id: 24283666
+  -
+    file: 14.jpg
+    year: 1887
+    description: Piața Libertății est
+    way_id: 24283666
+  -
+    file: 15.jpg
+    year: 1902
+    description: Birje și birjari în așteptarea cliențior pe latura de vest a Pieții Libertății
+    way_id: 24283666
+  -
+    file: 16.jpg
+    year: 1906
+    description: Piața c
+    way_id: 24283666
+  -
+    file: 17.jpg
+    year: 
+    description:
+    way_id: 24283666
+  -
+    file: 18.jpg
+    year: 
+    description: bjc_cv_cs_foto_054
+    way_id: 24283666
+  -
+    file: 19.jpg
+    year: 
+    description: Unirii cu obelisc
+    way_id: 24283666
+  -
+    file: 20.jpg
+    year: 
+    description: Unirii-Eroilor
+    way_id: 24283666
+
+  # Iuliu Maniu
+  -
+    file: 21.jpg
+    year: 
+    description: bjc_cs_cpo_45
+    way_id: 46240381
+
+  # B-dul Eroilor
+  -
+    file: 22.jpg
+    year: 1916
+    description: Str. Eroilor
+    way_id: 23893810
+  -
+    file: 23.jpg
+    year: 1917
+    description: Strada Dr. Petru Groza
+    way_id: 23893810
+
+  # Napoca
+  -
+    file: 24.jpg
+    year: 
+    description: napoca_bjc_cv_cs_ps_735
+    way_id: 10508024
+
+  # Petru Maior
+  -
+    file: 25.jpg
+    year: 
+    description: Strada Petru Maior
+    way_id: 108489923
+
+  # Universității
+  -
+    file: 26.jpg
+    year: 1859
+    description: Piariști 2
+    way_id: 23893736
+  -
+    file: 27.jpg
+    year: 1859
+    description: Str. Universității înainte de universitate.
+    way_id: 23893736
+  -
+    file: 28.jpg
+    year: 1899
+    description: Str. Universității
+    way_id: 23893736
+  -
+    file: 29.jpg
+    year: 1905
+    description: Str. Universității nr. 3, înainte de Arta
+    way_id: 23893736
+
+  # Potaissa
+  -
+    file: 30.jpg
+    year: 
+    description: bjc_cv_cs_foto_578
+    way_id: 27173072
+  -
+    file: 31.jpg
+    year: 
+    description: bjc_cv_cs_foto_579 (1)
+    way_id: 27173072
+
+  # Avram Iancu
+  -
+    file: 32.jpg
+    year: 1904
+    description: Str. Petofi, vedere dinspre est
+    way_id: 7932712
+  -
+    file: 33.jpg
+    year: 
+    description: avram iancu_03_bjc_cv_cs_ps_743
+    way_id: 7932712
+
+  # Kogălniceanu
+  -
+    file: 34.jpg
+    year: 
+    description: bjc_cv_cs_foto_053
+    way_id: 7933104
+  -
+    file: 35.jpg
+    year: 
+    description: bjc_cv_cs_foto_070
+    way_id: 7933104
+  -
+    file: 36.jpg
+    year: 
+    description: bjc_cv_cs_foto_348
+    way_id: 7933104
+  -
+    file: 37.jpg
+    year: 
+    description:
+    way_id: 7933104
+
+  # Baba Novac
+  -
+    file: 38.jpg
+    year: 
+    description: Bastionul Croitorilor
+    way_id: 26616052
+  -
+    file: 39.jpg
+    year: 
+    description: bjc_cv_cs_foto_566
+    way_id: 26616052
+  -
+    file: 40.jpg
+    year: 
+    description: bjc_cv_cs_foto_580
+    way_id: 26616052
+
+  # Piața Avram Iancu
+  -
+    file: 41.jpg
+    year: 1937
+    description: Piața Victoriei, Catedrala Ortodoxă
+    way_id: 7936457
+
+  # Str. David Ferenc
+  -
+    file: 42.jpg
+    year: 
+    description: bjc_cv_cs_foto_532
+    way_id: 43707023
+
+  # Str. Constanța
+  -
+    file: 43.jpg
+    year: 
+    description: Str. Constanța, școala
+    way_id: 32010580
+
+  # Ferdinand
+  -
+    file: 44.jpg
+    year: 
+    description: Str. Gheorghe Doja
+    way_id: 55556740
+  -
+    file: 45.jpg
+    year: 
+    description:
+    way_id: 55556740
+  -
+    file: 46.jpg
+    year: 
+    description:
+    way_id: 55556740
+  -
+    file: 47.jpg
+    year: 1887 
+    description: Str. Gheorghe Doja, văzută de la etajul 1 al Hotelului Central
+    way_id: 55556740
+  -
+    file: 48.jpg
+    year: 
+    description: bjc_cv_cs_foto_123 (1)
+    way_id: 55556740
+
+  # Matei Corvin
+  -
+    file: 49.jpg
+    year: 
+    description: bjc_cv_cs_foto_236
+    way_id: 23893843
+  -
+    file: 50.jpg
+    year: 
+    description: bjc_cv_cs_foto_308
+    way_id: 23893843
+  -
+    file: 51.jpg
+    year: 1925
+    description:
+    way_id: 23893843
+
+  # Piața Muzeului
+  -
+    file: 52.jpg
+    year: 1859
+    description: Biserica Francisc Veres
+    way_id:
+  -
+    file: 53.jpg
+    year: 
+    description:
+    way_id:
+  -
+    file: 54.jpg
+    year: 
+    description: bjc_cv_cs_foto_122
+    way_id:
+
+  # Horea
+  -
+    file: 55.jpg
+    year: 1965
+    description: Str. Horea, lîngă Gară
+    way_id: 23893975
+  -
+    file: 56.jpg
+    year: 
+    description: bjc_cv_cs_foto_210
+    way_id: 23893975
+  -
+    file: 57.jpg
+    year: 
+    description: bjc_cv_cs_foto_368 (1)
+    way_id: 23893975
+  -
+    file: 58.jpg
+    year: 
+    description: bjc_cv_cs_foto_378 (1)
+    way_id: 23893975
+
+  # Barițiu
+  -
+    file: 59.jpg
+    year: 1933
+    description: Demolarea morii de lîngă poștă (canalul morii)
+    way_id: 7976593
+  -
+    file: 60.jpg
+    year: 
+    description: bjc_cv_cs_foto_392
+    way_id: 7976593
+
+  # Piața Mihai Viteazu
+  -
+    file: 61.jpg
+    year: 1969
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+  -
+    file: 62.jpg
+    year: 1890
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+  -
+    file: 63.jpg
+    year: 1904
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+  -
+    file: 64.jpg
+    year: 1906
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+  -
+    file: 65.jpg
+    year: 1969
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+  -
+    file: 66.jpg
+    year: 
+    description: Piața Mihai Viteazu
+    way_id: 7976486
+
+  # Dacia
+  -
+    file: 67.jpg
+    year: 
+    description: cluj_ivan_transporturi_13
+    way_id: 7976556
+
+  # Dragalina
+  -
+    file: 68.jpg
+    year: 
+    description:
+    way_id: 24283514
+  -
+    file: 69.jpg
+    year: 
+    description:
+    way_id: 24283514
