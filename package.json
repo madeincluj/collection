@@ -1,0 +1,9 @@
+{
+  "name": "madeincluj-collection",
+  "version": "0.1.0",
+  "devDependencies": {
+    "fs-extra": "~0.8.1",
+    "walk": "~2.2.1",
+    "imagemagick": "~0.1.3"
+  }
+}
