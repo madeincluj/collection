@@ -1,3 +1,5 @@
-## Tools
+## About the collection
 
-The image resize tools needs ImageMagick CLI to be installed.
+* `dg` - buildings of the 60s-80s, photographed by Dacian Groza;
+* `fortepan` - selections from the [Fortepan](http://www.fortepan.hu/) historical photography archive;
+* `historical-photography` - historical photography from various sources.
