@@ -162,7 +162,7 @@
     year: 
     description: napoca_bjc_cv_cs_ps_735
     way_id: 10508024
-    coordinates:
+    coordinates: 46.768446, 23.589227
 
   # Petru Maior
   -
@@ -433,12 +433,12 @@
     description: Piața Mihai Viteazu
     way_id: 7976486
     coordinates: 46.774013, 23.589225
-  -
-    file: 65.jpg
-    year: 1969
-    description: Piața Mihai Viteazu
-    way_id: 7976486
-    coordinates:
+  # -
+  #   file: 65.jpg
+  #   year: 1969
+  #   description: Piața Mihai Viteazu
+  #   way_id: 7976486
+  #   coordinates: 46.773708, 23.587730
   -
     file: 66.jpg
     year: 
