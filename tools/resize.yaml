@@ -1,4 +1,5 @@
 folders:
 	# - ../../../Dropbox/s3/collection/dg
-  - ../../../Dropbox/s3/collection/historical-photography
-  - ../../../Dropbox/s3/collection/fortepan
+  # - ../../../Dropbox/s3/collection/historical-photography
+  # - ../../../Dropbox/s3/collection/fortepan
+  - historical-collection
