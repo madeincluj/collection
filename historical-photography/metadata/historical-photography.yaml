@@ -138,7 +138,7 @@
   -
     file: 21.jpg
     year: 
-    description: bjc_cs_cpo_45
+    description: Strada 6 Martie
     way_id: 46240381
     coordinates: 46.771291, 23.594972
 
@@ -146,7 +146,7 @@
   -
     file: 22.jpg
     year: 1916
-    description: Str. Eroilor
+    description: Strada Dr. Petru Groza
     way_id: 23893810
     coordinates: 46.769211, 23.591166
   -
@@ -268,7 +268,7 @@
   -
     file: 40.jpg
     year: 
-    description: Bastionul Croitorilor
+    description: 2404. Cluj. Cetatea
     way_id: 26616052
     coordinates: 46.768216, 23.597229
 
