@@ -1,4 +1,4 @@
-photos:
+﻿photos:
 
   # Memorandumului
   -
@@ -6,25 +6,25 @@ photos:
     year: 1936
     caption: Asfaltarea Pieții Libertății.
     way_id: 13347875
-    coordinates: 
+    coordinates: 46.770275, 23.589030
   - 
     file: 1.jpg
     year: 1936
     description: Asfaltarea Străzii 30 Decembrie.
     way_id: 13347875
-    coordinates:
+    coordinates: 46.769644, 23.587130
   -
     file: 2.jpg
     year: 1859
     description: Latura nordică a Străzii 30 Decembrie, în spate se văd casele cu picioare din Piața r
     way_id: 13347875
-    coordinates:
+    coordinates: 46.769247, 23.586202
   -
     file: 3.jpg
     year:
     description: Strada Memorandumului, către primărie
     way_id: 13347875
-    coordinates:
+    coordinates: 46.770280, 23.588622
 
   # Calea Moților
   - 
@@ -32,7 +32,7 @@ photos:
     year: 1904
     description: Consiliul popular județean
     way_id: 13342765
-    coordinates:
+    coordinates: 46.768997, 23.585188
 
   # 21 Decembrie
   - 
@@ -40,37 +40,37 @@ photos:
     year: 1907
     description: Bulevardul Lenin - parcaj de birje pe mijloc
     way_id: 13345555
-    coordinates:
+    coordinates: 46.772297, 23.594783
   - 
     file: 6.jpg
     year: 1915
     description: Bulevardul Lenin - Fabrica de tutun
     way_id: 13345555
-    coordinates:
+    coordinates: 46.775633, 23.604291
   -
     file: 7.jpg
     year: 1859
     description: Bulevardul Lenin cu vedere spre Piața Libertății, unde se văd casele cu picioare
     way_id: 13345555
-    coordinates:
+    coordinates: 46.771836, 23.592561
   -
     file: 8.jpg
     year: 1933
     description: Bicikli
     way_id: 13345555
-    coordinates:
+    coordinates: 46.771055, 23.590419
   -
     file: 9.jpg
     year: 
     description: bjc_cv_cs_foto_171
     way_id: 13345555
-    coordinates:
+    coordinates: 46.773116, 23.597280
   -
     file: 10.jpg
     year: 
     description: bjc_cv_cs_foto_243
     way_id: 13345555
-    coordinates:
+    coordinates: 46.771083, 23.590552
 
   # Piața Unirii
   -
@@ -78,61 +78,61 @@ photos:
     year:
     description: Piața Libertății, latura de nord
     way_id: 24283666
-    coordinates:
+    coordinates: 46.770475, 23.589469
   -
     file: 12.jpg
     year: 
     description:
     way_id: 24283666
-    coordinates:
+    coordinates: 46.770891, 23.590083
   -
     file: 13.jpg
     year: 1861
     description: Klausenburg
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769044, 23.591233
   -
     file: 14.jpg
     year: 1887
     description: Piața Libertății est
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769558, 23.590472
   -
     file: 15.jpg
     year: 1902
     description: Birje și birjari în așteptarea cliențior pe latura de vest a Pieții Libertății
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769375, 23.58935
   -
     file: 16.jpg
     year: 1906
     description: Piața c
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769388, 23.590172
   -
     file: 17.jpg
     year: 
     description:
     way_id: 24283666
-    coordinates:
+    coordinates: 46.770763, 23.589466
   -
     file: 18.jpg
     year: 
     description: bjc_cv_cs_foto_054
     way_id: 24283666
-    coordinates:
+    coordinates: 46.770813, 23.589644
   -
     file: 19.jpg
     year: 
     description: Unirii cu obelisc
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769430, 23.589922
   -
     file: 20.jpg
     year: 
     description: Unirii-Eroilor
     way_id: 24283666
-    coordinates:
+    coordinates: 46.769002, 23.589588
 
   # Iuliu Maniu
   -
@@ -140,7 +140,7 @@ photos:
     year: 
     description: bjc_cs_cpo_45
     way_id: 46240381
-    coordinates:
+    coordinates: 46.771291, 23.594972
 
   # B-dul Eroilor
   -
@@ -148,13 +148,13 @@ photos:
     year: 1916
     description: Str. Eroilor
     way_id: 23893810
-    coordinates:
+    coordinates: 46.769211, 23.591166
   -
     file: 23.jpg
     year: 1917
     description: Strada Dr. Petru Groza
     way_id: 23893810
-    coordinates:
+    coordinates: 46.769269, 23.590441
 
   # Napoca
   -
@@ -170,7 +170,7 @@ photos:
     year: 
     description: Strada Petru Maior
     way_id: 108489923
-    coordinates:
+    coordinates: 46.767836, 23.585563
 
   # Universității
   -
@@ -178,25 +178,25 @@ photos:
     year: 1859
     description: Piariști 2
     way_id: 23893736
-    coordinates:
+    coordinates: 46.767233, 23.590158
   -
     file: 27.jpg
     year: 1859
     description: Str. Universității înainte de universitate.
     way_id: 23893736
-    coordinates:
+    coordinates: 46.767152, 23.590138
   -
     file: 28.jpg
     year: 1899
     description: Str. Universității
     way_id: 23893736
-    coordinates:
+    coordinates: 46.7674, 23.590149
   -
     file: 29.jpg
     year: 1905
     description: Str. Universității nr. 3, înainte de Arta
     way_id: 23893736
-    coordinates:
+    coordinates: 46.767755, 23.590144
 
   # Potaissa
   -
@@ -218,7 +218,7 @@ photos:
     year: 1904
     description: Str. Petofi, vedere dinspre est
     way_id: 7932712
-    coordinates:
+    coordinates: 46.767655, 23.597513
   -
     file: 33.jpg
     year: 
@@ -414,25 +414,25 @@ photos:
     year: 1969
     description: Piața Mihai Viteazu
     way_id: 7976486
-    coordinates:
+    coordinates: 46.773708, 23.587730
   -
     file: 62.jpg
     year: 1890
     description: Piața Mihai Viteazu
     way_id: 7976486
-    coordinates:
+    coordinates: 46.774111, 23.590247
   -
     file: 63.jpg
     year: 1904
     description: Piața Mihai Viteazu
     way_id: 7976486
-    coordinates:
+    coordinates: 46.773911, 23.587677
   -
     file: 64.jpg
     year: 1906
     description: Piața Mihai Viteazu
     way_id: 7976486
-    coordinates:
+    coordinates: 46.774013, 23.589225
   -
     file: 65.jpg
     year: 1969
@@ -444,7 +444,7 @@ photos:
     year: 
     description: Piața Mihai Viteazu
     way_id: 7976486
-    coordinates:
+    coordinates: 46.773927, 23.588619
 
   # Dacia
   -
@@ -460,10 +460,10 @@ photos:
     year: 
     description:
     way_id: 24283514
-    coordinates:
+    coordinates: 46.772756, 23.582607
   -
     file: 69.jpg
-    year: 
+    year: 1959
     description:
     way_id: 24283514
-    coordinates:
+    coordinates: 46.772361, 23.581363
