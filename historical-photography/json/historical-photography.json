@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "properties": {},
+  "features": [
+    {
+      "properties": {
+        "id": "0",
+        "year": 1936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770275,
+          23.58903
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Asfaltarea Străzii 30 Decembrie.",
+        "id": "1",
+        "year": 1936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769644,
+          23.58713
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Latura nordică a Străzii 30 Decembrie, în spate se văd casele cu picioare din Piața r",
+        "id": "2",
+        "year": 1859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769247,
+          23.586202
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Strada Memorandumului, către primărie",
+        "id": "3",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77028,
+          23.588622
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Consiliul popular județean",
+        "id": "4",
+        "year": 1904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768997,
+          23.585188
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bulevardul Lenin - parcaj de birje pe mijloc",
+        "id": "5",
+        "year": 1907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772297,
+          23.594783
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bulevardul Lenin - Fabrica de tutun",
+        "id": "6",
+        "year": 1915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775633,
+          23.604291
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bulevardul Lenin cu vedere spre Piața Libertății, unde se văd casele cu picioare",
+        "id": "7",
+        "year": 1859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771836,
+          23.592561
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bicikli",
+        "id": "8",
+        "year": 1933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771055,
+          23.590419
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_171",
+        "id": "9",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773116,
+          23.59728
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_243",
+        "id": "10",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771083,
+          23.590552
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Libertății, latura de nord",
+        "id": "11",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770475,
+          23.589469
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "12",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770891,
+          23.590083
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Klausenburg",
+        "id": "13",
+        "year": 1861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769044,
+          23.591233
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Libertății est",
+        "id": "14",
+        "year": 1887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769558,
+          23.590472
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Birje și birjari în așteptarea cliențior pe latura de vest a Pieții Libertății",
+        "id": "15",
+        "year": 1902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769375,
+          23.58935
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața c",
+        "id": "16",
+        "year": 1906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769388,
+          23.590172
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "17",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770763,
+          23.589466
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_054",
+        "id": "18",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770813,
+          23.589644
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Unirii cu obelisc",
+        "id": "19",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76943,
+          23.589922
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Unirii-Eroilor",
+        "id": "20",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769002,
+          23.589588
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Strada 6 Martie",
+        "id": "21",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771291,
+          23.594972
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Strada Dr. Petru Groza",
+        "id": "22",
+        "year": 1916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769211,
+          23.591166
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Strada Dr. Petru Groza",
+        "id": "23",
+        "year": 1917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769269,
+          23.590441
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "napoca_bjc_cv_cs_ps_735",
+        "id": "24",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768446,
+          23.589227
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Strada Petru Maior",
+        "id": "25",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767836,
+          23.585563
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piariști 2",
+        "id": "26",
+        "year": 1859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767233,
+          23.590158
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Universității înainte de universitate.",
+        "id": "27",
+        "year": 1859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767152,
+          23.590138
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Universității",
+        "id": "28",
+        "year": 1899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7674,
+          23.590149
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Universității nr. 3, înainte de Arta",
+        "id": "29",
+        "year": 1905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767755,
+          23.590144
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_578",
+        "id": "30",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76711,
+          23.587451
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_579 (1)",
+        "id": "31",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.766975,
+          23.587474
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Petofi, vedere dinspre est",
+        "id": "32",
+        "year": 1904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767655,
+          23.597513
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "avram iancu_03_bjc_cv_cs_ps_743",
+        "id": "33",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.766282,
+          23.587543
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_053",
+        "id": "34",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767907,
+          23.594085
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_070",
+        "id": "35",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767414,
+          23.591565
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_348",
+        "id": "36",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767504,
+          23.592171
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "37",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767668,
+          23.593146
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bastionul Croitorilor",
+        "id": "38",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768162,
+          23.597261
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Bastionul Croitorilor",
+        "id": "39",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768225,
+          23.597274
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "2404. Cluj. Cetatea",
+        "id": "40",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768216,
+          23.597229
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Victoriei, Catedrala Ortodoxă",
+        "id": "41",
+        "year": 1937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771042,
+          23.596126
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_532",
+        "id": "42",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77422,
+          23.590149
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Constanța, școala",
+        "id": "43",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.774027,
+          23.595681
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Gheorghe Doja, văzută de la etajul 1 al Hotelului Central",
+        "id": "44",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770894,
+          23.590146
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "45",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772017,
+          23.589533
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Gheorghe Doja, văzută de la etajul 1 al Hotelului Central",
+        "id": "46",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770894,
+          23.590146
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Gheorghe Doja, văzută de la etajul 1 al Hotelului Central",
+        "id": "47",
+        "year": 1887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770894,
+          23.590146
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_123 (1)",
+        "id": "48",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772463,
+          23.589167
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_236",
+        "id": "49",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770913,
+          23.587449
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_308",
+        "id": "50",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770871,
+          23.58742
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "51",
+        "year": 1925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770913,
+          23.587693
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Biserica Francisc Veres",
+        "id": "52",
+        "year": 1859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771573,
+          23.586905
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "53",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7714,
+          23.586479
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_122",
+        "id": "54",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771607,
+          23.58673
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Str. Horea, lîngă Gară",
+        "id": "55",
+        "year": 1965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.783572,
+          23.587572
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_210",
+        "id": "56",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.776936,
+          23.587123
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_368 (1)",
+        "id": "57",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.780057,
+          23.587188
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_378 (1)",
+        "id": "58",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77361,
+          23.588151
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Demolarea morii de lîngă poștă (canalul morii)",
+        "id": "59",
+        "year": 1933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772791,
+          23.587252
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "bjc_cv_cs_foto_392",
+        "id": "60",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773029,
+          23.587359
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Mihai Viteazu",
+        "id": "61",
+        "year": 1969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773708,
+          23.58773
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Mihai Viteazu",
+        "id": "62",
+        "year": 1890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.774111,
+          23.590247
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Mihai Viteazu",
+        "id": "63",
+        "year": 1904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773911,
+          23.587677
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Mihai Viteazu",
+        "id": "64",
+        "year": 1906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.774013,
+          23.589225
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Piața Mihai Viteazu",
+        "id": "66",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773927,
+          23.588619
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "cluj_ivan_transporturi_13",
+        "id": "67",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.774769,
+          23.587284
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "68",
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772756,
+          23.582607
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": null,
+        "id": "69",
+        "year": 1959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.772361,
+          23.581363
+        ]
+      }
+    }
+  ]
+}

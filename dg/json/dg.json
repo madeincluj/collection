@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/108068969",
+        "name": "Casa de cultură a studenților"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.586285631044273,
+          46.76675403217701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/154946207",
+        "name": "Magazin Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58959481208636,
+          46.77293013546933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/155045033",
+        "name": "Piața agroalimentară"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.59356220290663,
+          46.774342285884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/174534305",
+        "name": "Complex Republica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5904335852682,
+          46.77475888989104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/223357634",
+        "name": "Hotel Belvedere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.581692918343133,
+          46.77422177875143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/226258489",
+        "name": "Institutul de proiectare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.584270013538504,
+          46.76905934603938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/227338615",
+        "name": "Palatul telefoanelor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.587603490113064,
+          46.77289191667559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/236828685",
+        "name": "Hotel Napoca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57597972943478,
+          46.77144745275546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/243261484",
+        "name": "Liceul George Coșbuc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.59707685887358,
+          46.7673261430129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/243261485",
+        "name": "Biblioteca Academiei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.594063543171387,
+          46.767638069305995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/244016056",
+        "name": "Hotel Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.594901940114273,
+          46.77200853112244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/244018143",
+        "name": "Facultatea de construcții"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58530424572599,
+          46.77074275055274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/244018145",
+        "name": "Blocul Păcii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.586145922530314,
+          46.76755077342094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/244018146",
+        "name": "Blocul OJT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.585368670717358,
+          46.76868473412712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/244018149",
+        "name": "Casa de modă"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.587349368462093,
+          46.773679252622664
+        ]
+      }
+    }
+  ]
+}

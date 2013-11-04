@@ -1,0 +1,1674 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "name": "Colecția Fortepan",
+    "description": "http://fortepan.hu"
+  },
+  "features": [
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út 9. (ma Strada Horea). (Cluj-Napoca, Romania)",
+        "id": 29713,
+        "year": 1905,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út 9. (ma Strada Horea). (Cluj-Napoca, Romania)",
+        "id": 29712,
+        "year": 1905,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom és a Mátyás király emlékmű. (Cluj-Napoca, Romania)",
+        "id": 8984,
+        "year": 1905,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769092,
+          23.590658
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara . (Cluj-Napoca, Romania)",
+        "id": 29723,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29722,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29720,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29719,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29718,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29716,
+        "year": 1906,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29735,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29734,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, szemben az Elian palota és a Széki palota, háttérben a Szent Mihály templom tornya látszik. (Cluj-Napoca, Romania)",
+        "id": 29733,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.774977,
+          23.587151
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hója erdő, szalonnát sütő gyerekek. (Cluj-Napoca, Romania)",
+        "id": 29731,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77617,
+          23.556594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara . (Cluj-Napoca, Romania)",
+        "id": 29730,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara . (Cluj-Napoca, Romania)",
+        "id": 29729,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara . (Cluj-Napoca, Romania)",
+        "id": 29728,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ferenc József út (Strada Horea) 9. sz. ház udvara. (Cluj-Napoca, Romania)",
+        "id": 29727,
+        "year": 1907,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775962,
+          23.586771
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király tér. (Cluj-Napoca, Romania)",
+        "id": 8197,
+        "year": 1908,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770308,
+          23.590332
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Lutheránus templom. (Cluj-Napoca, Romania)",
+        "id": 6991,
+        "year": 1908,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770837,
+          23.590052
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Kossuth Lajos utca. (Cluj-Napoca, Romania)",
+        "id": 6988,
+        "year": 1908,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770761,
+          23.589391
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Sétatér (Parcul Central). (Cluj-Napoca, Romania)",
+        "id": 29743,
+        "year": 1909,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770188,
+          23.579122
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Centrál szálloda. (Cluj-Napoca, Romania)",
+        "id": 8126,
+        "year": 1909,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770803,
+          23.590035
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Kolozsvár, Piarista Főgimnázium tanterme. (Cluj-Napoca, Romania)",
+        "id": 29760,
+        "year": 1910,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767113,
+          23.591408
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Erzsébet út 31. sz. ház kertje. (Cluj-Napoca, Romania)",
+        "id": 29752,
+        "year": 1910,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.776935,
+          23.584002
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Erzsébet út 31. Cholnoky Jenő földrajztudós díszmagyarban. (Cluj-Napoca, Romania)",
+        "id": 29751,
+        "year": 1910,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.776935,
+          23.584002
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hója erdő, iskolások kiránduláson. (Cluj-Napoca, Romania)",
+        "id": 29750,
+        "year": 1910,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.777684,
+          23.558203
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király tér. (Cluj-Napoca, Romania)",
+        "id": 7947,
+        "year": 1910,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770652,
+          23.589199
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király tér. (Cluj-Napoca, Romania)",
+        "id": 7946,
+        "year": 1910,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770699,
+          23.590066
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király tér. (Cluj-Napoca, Romania)",
+        "id": 7945,
+        "year": 1910,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769608,
+          23.589175
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király tér. (Cluj-Napoca, Romania)",
+        "id": 7036,
+        "year": 1910,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770271,
+          23.5891
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár a Fellegvár felől. (Cluj-Napoca, Romania)",
+        "id": 29779,
+        "year": 1912,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77634,
+          23.582469
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár a Fellegvár felől. (Cluj-Napoca, Romania)",
+        "id": "29778cht",
+        "year": 1912,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77634,
+          23.582469
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Erzsébet út 31. (Cluj-Napoca, Romania)",
+        "id": 29771,
+        "year": 1912,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.776935,
+          23.584002
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Bánffy-palota. (Cluj-Napoca, Romania)",
+        "id": 7037,
+        "year": 1912,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769922,
+          23.590286
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Főtér, háttérben a Szent Mihály plébániatemplom. (Cluj-Napoca, Romania)",
+        "id": 7001,
+        "year": 1914,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770249,
+          23.588217
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, háttérben a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 6973,
+        "year": 1914,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769455,
+          23.5905
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Kis Szamos híd a Sétatérnél. (Cluj-Napoca, Romania)",
+        "id": 29793,
+        "year": 1916,
+        "credits": "Cholnoky Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771068,
+          23.577907
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 24190,
+        "year": 1928,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769926,
+          23.589757
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Séta tér, Kioszk. (Cluj-Napoca, Romania)",
+        "id": 13395,
+        "year": 1930,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769278,
+          23.578106
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Séta tér, csónakázótó és a Kioszk épülete. (Cluj-Napoca, Romania)",
+        "id": 13353,
+        "year": 1930,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768121,
+          23.578269
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Nemzeti Színház. (Cluj-Napoca, Romania)",
+        "id": 11577,
+        "year": 1931,
+        "credits": "Gyöngyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770704,
+          23.596518
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szamos part a Fellegvár alatt az Erzsébet híddal. (Cluj-Napoca, Romania)",
+        "id": 11576,
+        "year": 1931,
+        "credits": "Gyöngyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771805,
+          23.581925
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom, balra Hunyadi Mátyás lovasszobra (Fadrusz János). (Cluj-Napoca, Romania)",
+        "id": 43659,
+        "year": 1940,
+        "credits": "Konok Tamás id."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769012,
+          23.590763
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér a Szentegyház utca torkolata felé nézve, balra a Bánffy palota. (Cluj-Napoca, Romania)",
+        "id": 43658,
+        "year": 1940,
+        "credits": "Konok Tamás id."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770845,
+          23.589603
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 29459,
+        "year": 1940,
+        "credits": "Gál László"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769909,
+          23.589078
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 26561,
+        "year": 1940,
+        "credits": "Pohl Pálma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771689,
+          23.59651
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ortodox katedrális. (Cluj-Napoca, Romania)",
+        "id": 26560,
+        "year": 1940,
+        "credits": "Pohl Pálma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77163,
+          23.596508
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 26559,
+        "year": 1940,
+        "credits": "Pohl Pálma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769586,
+          23.589429
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Séta tér, a Kioszk épülete és a csónakázótó. (Cluj-Napoca, Romania)",
+        "id": 26558,
+        "year": 1940,
+        "credits": "Pohl Pálma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768495,
+          23.576439
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Piarista (egykor jezsuita) templom. (Cluj-Napoca, Romania)",
+        "id": 24209,
+        "year": 1940,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767667,
+          23.590103
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, a ferences (egykor dominikánus) kolostor refektóriumának felolvasófülkéje. (Cluj-Napoca, Romania)",
+        "id": 24192,
+        "year": 1940,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771923,
+          23.587928
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Farkas utcai református templom. (Cluj-Napoca, Romania)",
+        "id": 24191,
+        "year": 1940,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767784,
+          23.595321
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, a Szent Mihály templom bejárata. (Cluj-Napoca, Romania)",
+        "id": 24189,
+        "year": 1940,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769876,
+          23.589084
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 24188,
+        "year": 1940,
+        "credits": "Somlai Tibor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769981,
+          23.588543
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Kolozsvár, Füvészkert. A szobor az egyetem homlokzatáról származik. (Cluj-Napoca, Romania)",
+        "id": 9365,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.761869,
+          23.58752
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, a kép Nemzeti Színház előtt készült a Bocskai téren (Piaţa Avram Iancu), háttérben a Honvéd utca (Calea Dorobanţilor), jobbra a Bíróság épülete. (Cluj-Napoca, Romania)",
+        "id": 9364,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770792,
+          23.597447
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, háttérben a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 9363,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768611,
+          23.589758
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, háttérben a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 9362,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769019,
+          23.590229
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, háttérben a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 9361,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769019,
+          23.590229
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hunyadi Mátyás lovasszobra. (Cluj-Napoca, Romania)",
+        "id": 8920,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769358,
+          23.589875
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Nemzeti Színház. (Cluj-Napoca, Romania)",
+        "id": 8906,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770699,
+          23.596426
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér. (Cluj-Napoca, Romania)",
+        "id": 8533,
+        "year": 1940,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770867,
+          23.589644
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Honvéd utca (str. Calea Dorobanților) a Döbrentei utca (str. Pavel Roșca) felé. (Cluj-Napoca, Romania)",
+        "id": 39396,
+        "year": 1941,
+        "credits": "Tarbay Júlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771303,
+          23.598895
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, vasútállomás. (Cluj-Napoca, Romania)",
+        "id": 11411,
+        "year": 1941,
+        "credits": "Gyöngyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.784397,
+          23.585372
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Főtér, balra van a Szent-Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 9899,
+        "year": 1942,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768818,
+          23.589584
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, a Házsongárdi temető főbejárata. (Cluj-Napoca, Romania)",
+        "id": 9898,
+        "year": 1942,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76584,
+          23.591479
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Farkas utcai templom. (Cluj-Napoca, Romania)",
+        "id": 9897,
+        "year": 1942,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76788,
+          23.594158
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár. (Cluj-Napoca, Romania)",
+        "id": 9896,
+        "year": 1942,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773879,
+          23.58329
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár. (Cluj-Napoca, Romania)",
+        "id": 9895,
+        "year": 1942,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773684,
+          23.582147
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, az ortodox templom a színházzal szemben. (Cluj-Napoca, Romania)",
+        "id": 10012,
+        "year": 1943,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769623,
+          23.5972
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Nemzeti Színház. (Cluj-Napoca, Romania)",
+        "id": 10011,
+        "year": 1943,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770827,
+          23.596656
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hunyadi Mátyás szobra. (Cluj-Napoca, Romania)",
+        "id": 10010,
+        "year": 1943,
+        "credits": "Kurutz Márton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76944,
+          23.590108
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Kövespad utca (strada Aurel Suciu). Jawa 350 sport motorkerékpár. (Cluj-Napoca, Romania)",
+        "id": 14387,
+        "year": 1957,
+        "credits": "Szent-tamási Mihály"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770759,
+          23.611643
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Kövespad utca (strada Aurel Suciu). Jawa 350 sport motorkerékpár. (Cluj-Napoca, Romania)",
+        "id": 14386,
+        "year": 1957,
+        "credits": "Szent-tamási Mihály"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770759,
+          23.611643
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, Hunyadi Mátyás szobor. (Cluj-Napoca, Romania)",
+        "id": 14385,
+        "year": 1957,
+        "credits": "Szent-tamási Mihály"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76958,
+          23.589281
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, Hunyadi Mátyás szobor. (Cluj-Napoca, Romania)",
+        "id": 14384,
+        "year": 1957,
+        "credits": "Szent-tamási Mihály"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769689,
+          23.590095
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Strada Horea a Szamos hid felé. (Cluj-Napoca, Romania)",
+        "id": 3845,
+        "year": 1958,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.776542,
+          23.587413
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Kolozsvár, Piata Mihai Viteazul (egykor Széchenyi tér). (Cluj-Napoca, Romania)",
+        "id": 22306,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77427,
+          23.591793
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Strada Horea a Szamos híd felé nézve. (Cluj-Napoca, Romania)",
+        "id": 22305,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77516,
+          23.5873
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 22304,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773903,
+          23.58352
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, balra az evangélikus templom, jobbra a Melody hotel. (Cluj-Napoca, Romania)",
+        "id": 22301,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770645,
+          23.589557
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Mátyás király emlékmű a Szent Mihály plébániatemplom mellett. (Cluj-Napoca, Romania)",
+        "id": 22300,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769141,
+          23.590079
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Bocskai tér, Ortodox katedrális. (Cluj-Napoca, Romania)",
+        "id": 22299,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770557,
+          23.596851
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Strada Regale Ferdinand (Wesselényi majd Dózsa György út). (Cluj-Napoca, Romania)",
+        "id": 22298,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77096,
+          23.590298
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Magyar utca (jelenleg Bulevardul 21. Decembrie 1989). Unitárius templom és kollégium. (Cluj-Napoca, Romania)",
+        "id": 22297,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77096,
+          23.590298
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, látkép a fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 22296,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.775097,
+          23.583333
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, látkép a fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 22295,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7734,
+          23.582576
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Magyar Opera, a háttérben a Szent Mihály templom és a Feleki-tető. (Cluj-Napoca, Romania)",
+        "id": 22294,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7734,
+          23.582576
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 22293,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7734,
+          23.582576
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Szamos parti épületek a Várhegyről nézve. (Cluj-Napoca, Romania)",
+        "id": 22292,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7733,
+          23.581959
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 22291,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773552,
+          23.583199
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Sétatér (Parcul Central), szökőkút. (Cluj-Napoca, Romania)",
+        "id": 22290,
+        "year": 1959,
+        "credits": "Pálfi Balázs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768829,
+          23.577019
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, Bánffy-palota. (Cluj-Napoca, Romania)",
+        "id": 32638,
+        "year": 1961,
+        "credits": "Gyöngyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77062,
+          23.590047
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Ortodox székesegyház. (Cluj-Napoca, Romania)",
+        "id": 32635,
+        "year": 1961,
+        "credits": "Gyöngyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771543,
+          23.596951
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, a Kolozsvári testvérek Szent György szobra a Farkas utcai református templom előtt. (Cluj-Napoca, Romania)",
+        "id": 30412,
+        "year": 1965,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768048,
+          23.595111
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Farkas utcai református templom, előtte a Kolozsvári testvérek Szent György szobra. (Cluj-Napoca, Romania)",
+        "id": 30411,
+        "year": 1965,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767962,
+          23.594502
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Evangélikus templom. (Cluj-Napoca, Romania)",
+        "id": 30410,
+        "year": 1965,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770724,
+          23.589796
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Tauffer ház a Strada Vasile Goldis és a Strada Sextil Puscariu sarkán, háttérben a ferences templom tornya. (Cluj-Napoca, Romania)",
+        "id": 30409,
+        "year": 1965,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.771086,
+          23.587784
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Strada Iuliu Maniu (Szentegyház utca), háttérben az ortodox katedrális. (Cluj-Napoca, Romania)",
+        "id": 30408,
+        "year": 1965,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.770146,
+          23.590738
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Malomárok. (Cluj-Napoca, Romania)",
+        "id": 21470,
+        "year": 1974,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773339,
+          23.588462
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hotel Continental. (Cluj-Napoca, Romania)",
+        "id": 21457,
+        "year": 1975,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768864,
+          23.589805
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Széchenyi tér (Pia?a Mihai Viteazul) irányából a Szamos híd felé nézve, jobbra a Babos-palota. (Cluj-Napoca, Romania)",
+        "id": 21456,
+        "year": 1975,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773484,
+          23.588133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hotel Continental a Mátyás király térről fotózva. (Cluj-Napoca, Romania)",
+        "id": 21443,
+        "year": 1975,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.768978,
+          23.589961
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Diákok Művelődési Háza. (Cluj-Napoca, Romania)",
+        "id": 21432,
+        "year": 1975,
+        "credits": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767517,
+          23.586702
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Hunyadi Mátyás szobor és mögötte a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 15260,
+        "year": 1977,
+        "credits": "MHSZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769512,
+          23.590733
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 30435,
+        "year": 1979,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77379,
+          23.583031
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Fellegvárból. (Cluj-Napoca, Romania)",
+        "id": 30434,
+        "year": 1979,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77379,
+          23.583031
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, jobbra a Mátyás király emlékmű. (Cluj-Napoca, Romania)",
+        "id": 30433,
+        "year": 1979,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769745,
+          23.590664
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár, Fő tér, Mátyás király emlékmű és a Szent Mihály templom. (Cluj-Napoca, Romania)",
+        "id": 30432,
+        "year": 1979,
+        "credits": "Németh Tamás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769277,
+          23.590306
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Várhegyről nézve. (Cluj-Napoca, Romania)",
+        "id": 22141,
+        "year": 1980,
+        "credits": "MHSZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773923,
+          23.582904
+        ]
+      }
+    },
+    {
+      "properties": {
+        "description": "Románia, Kolozsvár látképe a Várhegyről nézve. (Cluj-Napoca, Romania)",
+        "id": 22140,
+        "year": 1980,
+        "credits": "MHSZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.773923,
+          23.582904
+        ]
+      }
+    }
+  ]
+}
