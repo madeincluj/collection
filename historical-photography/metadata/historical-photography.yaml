@@ -1,7 +1,9 @@
-﻿photos:
-
-  # Memorandumului
+﻿properties:
+  name: Fotografii istorice
+  description: Imagini cu Clujul vechi
+photos:
   -
+    # Memorandumului
     file: 0.jpg
     year: 1936
     caption: Asfaltarea Pieții Libertății.
@@ -25,17 +27,15 @@
     description: Strada Memorandumului, către primărie
     way_id: 13347875
     coordinates: 46.770280, 23.588622
-
-  # Calea Moților
   - 
+    # Calea Moților
     file: 4.jpg
     year: 1904
     description: Consiliul popular județean
     way_id: 13342765
     coordinates: 46.768997, 23.585188
-
-  # 21 Decembrie
   - 
+    # 21 Decembrie
     file: 5.jpg
     year: 1907
     description: Bulevardul Lenin - parcaj de birje pe mijloc
@@ -71,7 +71,6 @@
     description: bjc_cv_cs_foto_243
     way_id: 13345555
     coordinates: 46.771083, 23.590552
-
   # Piața Unirii
   -
     file: 11.jpg
@@ -133,17 +132,15 @@
     description: Unirii-Eroilor
     way_id: 24283666
     coordinates: 46.769002, 23.589588
-
-  # Iuliu Maniu
   -
+    # Iuliu Maniu
     file: 21.jpg
     year: 
     description: Strada 6 Martie
     way_id: 46240381
     coordinates: 46.771291, 23.594972
-
-  # B-dul Eroilor
   -
+    # B-dul Eroilor
     file: 22.jpg
     year: 1916
     description: Strada Dr. Petru Groza
@@ -155,25 +152,22 @@
     description: Strada Dr. Petru Groza
     way_id: 23893810
     coordinates: 46.769269, 23.590441
-
-  # Napoca
   -
+    # Napoca
     file: 24.jpg
     year: 
     description: napoca_bjc_cv_cs_ps_735
     way_id: 10508024
     coordinates: 46.768446, 23.589227
-
-  # Petru Maior
   -
+    # Petru Maior
     file: 25.jpg
     year: 
     description: Strada Petru Maior
     way_id: 108489923
     coordinates: 46.767836, 23.585563
-
-  # Universității
   -
+    # Universității
     file: 26.jpg
     year: 1859
     description: Piariști 2
@@ -197,9 +191,8 @@
     description: Str. Universității nr. 3, înainte de Arta
     way_id: 23893736
     coordinates: 46.767755, 23.590144
-
-  # Potaissa
   -
+    # Potaissa
     file: 30.jpg
     year: 
     description: bjc_cv_cs_foto_578
@@ -211,9 +204,8 @@
     description: bjc_cv_cs_foto_579 (1)
     way_id: 27173072
     coordinates: 46.766975, 23.587474
-
-  # Avram Iancu
   -
+    # Avram Iancu
     file: 32.jpg
     year: 1904
     description: Str. Petofi, vedere dinspre est
@@ -225,9 +217,8 @@
     description: avram iancu_03_bjc_cv_cs_ps_743
     way_id: 7932712
     coordinates: 46.766282, 23.587543
-
-  # Kogălniceanu
   -
+    # Kogălniceanu
     file: 34.jpg
     year: 
     description: bjc_cv_cs_foto_053
@@ -251,9 +242,8 @@
     description:
     way_id: 7933104
     coordinates: 46.767668, 23.593146
-
-  # Baba Novac
   -
+    # Baba Novac
     file: 38.jpg
     year: 
     description: Bastionul Croitorilor
@@ -271,33 +261,29 @@
     description: 2404. Cluj. Cetatea
     way_id: 26616052
     coordinates: 46.768216, 23.597229
-
-  # Piața Avram Iancu
   -
+    # Piața Avram Iancu
     file: 41.jpg
     year: 1937
     description: Piața Victoriei, Catedrala Ortodoxă
     way_id: 7936457
     coordinates: 46.771042, 23.596126
-
-  # Str. David Ferenc
   -
+    # Str. David Ferenc
     file: 42.jpg
     year: 
     description: bjc_cv_cs_foto_532
     way_id: 43707023
     coordinates:  46.774220, 23.590149
-
-  # Str. Constanța
   -
+    # Str. Constanța
     file: 43.jpg
     year: 
     description: Str. Constanța, școala
     way_id: 32010580
     coordinates: 46.774027, 23.595681
-
-  # Ferdinand
   -
+    # Ferdinand
     file: 44.jpg
     year: 
     description: Str. Gheorghe Doja, văzută de la etajul 1 al Hotelului Central
@@ -327,9 +313,8 @@
     description: bjc_cv_cs_foto_123 (1)
     way_id: 55556740
     coordinates: 46.772463, 23.589167
-
-  # Matei Corvin
   -
+    # Matei Corvin
     file: 49.jpg
     year: 
     description: bjc_cv_cs_foto_236
@@ -347,9 +332,8 @@
     description:
     way_id: 23893843
     coordinates: 46.770913, 23.587693
-
-  # Piața Muzeului
   -
+    # Piața Muzeului
     file: 52.jpg
     year: 1859
     description: Biserica Francisc Veres
@@ -367,9 +351,8 @@
     description: bjc_cv_cs_foto_122
     way_id:
     coordinates: 46.771607, 23.586730
-
-  # Horea
   -
+    # Horea
     file: 55.jpg
     year: 1965
     description: Str. Horea, lîngă Gară
@@ -393,9 +376,8 @@
     description: bjc_cv_cs_foto_378 (1)
     way_id: 23893975
     coordinates: 46.773610, 23.588151
-
-  # Barițiu
   -
+    # Barițiu
     file: 59.jpg
     year: 1933
     description: Demolarea morii de lîngă poștă (canalul morii)
@@ -407,9 +389,8 @@
     description: bjc_cv_cs_foto_392
     way_id: 7976593
     coordinates: 46.773029, 23.587359
-
-  # Piața Mihai Viteazu
   -
+    # Piața Mihai Viteazu
     file: 61.jpg
     year: 1969
     description: Piața Mihai Viteazu
@@ -445,17 +426,15 @@
     description: Piața Mihai Viteazu
     way_id: 7976486
     coordinates: 46.773927, 23.588619
-
-  # Dacia
   -
+    # Dacia
     file: 67.jpg
     year: 
     description: cluj_ivan_transporturi_13
     way_id: 7976556
     coordinates:  46.774769, 23.587284
-
-  # Dragalina
   -
+    # Dragalina
     file: 68.jpg
     year: 
     description:
