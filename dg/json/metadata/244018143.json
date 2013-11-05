@@ -1,8 +1,9 @@
 {
   "id": 244018143,
   "name": "Facultatea de construcții",
+  "slug": "facultatea-de-constructii",
   "year": null,
-  "architect": null,
+  "architect": "Eugeniu Pănescu",
   "description": "",
   "photos": [
     "0.jpg",
