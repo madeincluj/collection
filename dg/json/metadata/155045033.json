@@ -1,10 +1,11 @@
 {
   "id": 155045033,
-  "name": "Piața agroalimentară",
-  "slug": "piata-agroalimentara",
-  "year": null,
-  "architect": null,
+  "name": "Piața agroalimentară Mihai Viteazu",
+  "slug": "piata-agroalimentara-mihai-viteazu",
+  "year": 1984,
+  "architect": "arh. Nicolae Neamțu",
   "description": "",
+  "source": null,
   "photos": [
     "0.jpg",
     "1.jpg",
