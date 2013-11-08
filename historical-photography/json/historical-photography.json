@@ -1,6 +1,9 @@
 {
   "type": "FeatureCollection",
-  "properties": {},
+  "properties": {
+    "name": "Fotografii istorice",
+    "description": "Imagini din Clujul vechi"
+  },
   "features": [
     {
       "properties": {

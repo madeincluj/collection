@@ -1,6 +1,6 @@
-﻿properties:
+properties:
   name: Fotografii istorice
-  description: Imagini cu Clujul vechi
+  description: Imagini din Clujul vechi
 photos:
   -
     # Memorandumului
