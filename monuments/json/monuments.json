@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Biserica Franciscană - Conventul Dominican",
+        "id": "mon_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Biserica Reformată de pe Strada Kogălniceanu",
+        "id": "mon_2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Biserica Sfântul Mihail",
+        "id": "mon_3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Casa Filstich-Kemény",
+        "id": "mon_4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Casa Matia",
+        "id": "mon_5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Casa Mauksch-Hintz",
+        "id": "mon_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Casa Nemes-Knoblauch",
+        "id": "mon_7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Casa Wolphard-Kakas",
+        "id": "mon_8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Colegiul Reformat",
+        "id": "mon_9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Hotel Continental",
+        "id": "mon_10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Palatul Bánffy",
+        "id": "mon_11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "46.770687",
+          "23.590668"
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Palatul Mikes",
+        "id": "mon_12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Palatul Reduta",
+        "id": "mon_13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Palatul Rhédey",
+        "id": "mon_14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Palatul Teleki",
+        "id": "mon_15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}
