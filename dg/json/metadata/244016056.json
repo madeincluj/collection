@@ -3,12 +3,19 @@
   "name": "Hotel Victoria",
   "slug": "hotel-victoria",
   "year": null,
-  "architect": null,
-  "description": "",
-  "source": null,
+  "null": null,
+  "architect": "arh. Aurelian Buzuloiu, arh. Sorin Scripcariu, arh. Călin Codrea",
+  "description": "\nHotelul Victoria este situat în zona intersecției dintre bulevardul 21 Decembrie 1989 și strada Baba Novac, în vecinătatea sediului actualei Prefecturi. Lucrarea, proiectată cu axul de simetrie sub un unghi față de cele două artere, are intrarea principală orientată spre Piața Victoriei. Funcțiunile principale sunt structurate compozițional în jurul acestei diagonale. \n\nDispunerea acestui hotel, denumit inițial \"cămin pentru activul de partid\" cu încadrare în gândirea sistemului politic, în perimetrul istoric protejat, pe lângă criteriile de ordin urbanistic, arhitectural, respectă și cerința administrației locale de a fi în vecinătatea fostului sediu județean. \n\nCadrul arhitectural existent corelat cu unele condiții impuse de beneficiar, prea supus directivelor, dar și lipsa noastră de abilități diplomatice în tratarea \"probelor\" timpului, au generat câteva compromisuri, cum ar fi: lipsa locurilor de parcare-garare pentru autoturisme; dimensiunarea înălțimilor interioare ale cantinei-restaurant etc., sunt resimțite de necesitatea încadrării actualului imobil (cu toate ameliorările aduse de beneficiar în ultima perioadă) într-o categorie superioară a standardelor hoteliere. \n\nÎn pofida acestor inconveniente, s-a reușit realizarea unei lucrări valoroase, de ținută, onorată cu un premiu acordat de Uniunea Arhitecților din România.\n",
+  "excerpt": null,
+  "source": "Aurelian Buzuloiu, \"Cluj-Napoca în proiecte. 50 de ani. 1960-2010\"",
   "photos": [
     "0.jpg",
     "1.jpg",
-    "2.jpg"
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg"
   ]
 }
