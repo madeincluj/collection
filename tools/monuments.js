@@ -23,7 +23,7 @@ yaml_files.forEach(function(filepath) {
 		geometry: {
 			type: 'Point',
 			coordinates: content.coordinates ? content.coordinates.split(',').map(function(part) {
-				return part.trim();
+				return parseFloat(part.trim());
 			}) : [0, 0]
 		}
 	};
