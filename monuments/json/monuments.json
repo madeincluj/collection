@@ -4,7 +4,7 @@
     {
       "properties": {
         "name": "Biserica Franciscană - Conventul Dominican",
-        "id": "mon_1"
+        "id": "biserica-franciscana"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +17,7 @@
     {
       "properties": {
         "name": "Biserica Reformată de pe Strada Kogălniceanu",
-        "id": "mon_2"
+        "id": "biserica-reformata"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
     {
       "properties": {
         "name": "Biserica Sfântul Mihail",
-        "id": "mon_3"
+        "id": "biserica-sf-mihail"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
     {
       "properties": {
         "name": "Casa Filstich-Kemény",
-        "id": "mon_4"
+        "id": "casa-filstich-kemeny"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +56,7 @@
     {
       "properties": {
         "name": "Casa Matia",
-        "id": "mon_5"
+        "id": "casa-matia"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +69,7 @@
     {
       "properties": {
         "name": "Casa Mauksch-Hintz",
-        "id": "mon_6"
+        "id": "casa-mauksch-hintz"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +82,7 @@
     {
       "properties": {
         "name": "Casa Nemes-Knoblauch",
-        "id": "mon_7"
+        "id": "casa-nemes-knoblauch"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +95,7 @@
     {
       "properties": {
         "name": "Casa Wolphard-Kakas",
-        "id": "mon_8"
+        "id": "casa-wolphard-kakas"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +108,7 @@
     {
       "properties": {
         "name": "Colegiul Reformat",
-        "id": "mon_9"
+        "id": "colegiul-reformat"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +121,7 @@
     {
       "properties": {
         "name": "Hotel Continental",
-        "id": "mon_10"
+        "id": "hotel-continental"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +134,7 @@
     {
       "properties": {
         "name": "Palatul Bánffy",
-        "id": "mon_11"
+        "id": "palatul-banffy"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +147,7 @@
     {
       "properties": {
         "name": "Palatul Mikes",
-        "id": "mon_12"
+        "id": "palatul-mikes"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +160,7 @@
     {
       "properties": {
         "name": "Palatul Reduta",
-        "id": "mon_13"
+        "id": "palatul-reduta"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
     {
       "properties": {
         "name": "Palatul Rhédey",
-        "id": "mon_14"
+        "id": "palatul-rhedey"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
     {
       "properties": {
         "name": "Palatul Teleki",
-        "id": "mon_15"
+        "id": "palatul-teleki"
       },
       "geometry": {
         "type": "Point",

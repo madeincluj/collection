@@ -18,7 +18,7 @@ yaml_files.forEach(function(filepath) {
 	var feature = {
 		properties: {
 			name: content.name,
-			id: content.id
+			id: content.slug
 		},
 		geometry: {
 			type: 'Point',
@@ -31,6 +31,6 @@ yaml_files.forEach(function(filepath) {
 	geojson.features.push(feature);
 
 	var output = JSON.stringify(content, null, 2);
-	fs.outputFile(output_dir + content.id + '.json', output);
+	fs.outputFile(output_dir + content.slug + '.json', output);
 	fs.outputFile(geojson_output, JSON.stringify(geojson, null, 2));
 });
